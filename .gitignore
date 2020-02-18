@@ -1,0 +1,6 @@
+bin/
+
+database*
+database*.lock
+
+*.log
