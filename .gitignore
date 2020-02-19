@@ -1,6 +1,1 @@
-bin/
-
-database*
-database*.lock
-
-*.log
+.idea/*
